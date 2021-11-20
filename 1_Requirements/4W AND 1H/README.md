@@ -24,7 +24,7 @@ When:
  
  How:
  
- This web based application automate the process of ordering and billing of Hotel management
+ This web based application automate the process of ordering and billing of Hotel management.
 
  
 
