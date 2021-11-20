@@ -40,4 +40,4 @@ CHARACTERSTIC OF THE PROPOSED SYSTEM
         competitors.
      7. Computer operator control: Computer operator control will be there
         no errors. Moreover storing and retrieving of information is easy. So
-        work can be done speedily and in time.
+        work can be done speed and in time.
