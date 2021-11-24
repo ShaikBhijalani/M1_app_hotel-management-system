@@ -1,22 +1,7 @@
 
 HIGH LEVEL REQUIREMENTS:
 
-Reservation/Booking:
-
-   * The system shall record reservation/Booking.
-   * The system shall record the expected check-in and check-out date and time.
-
-Data Requirements:
-
-  * To collect and maintain the data of customers and hotel management(staff) , stores in Management database .
-
-Invoice:
-
-  * Customers Invoice maintainances.
- 
-Fast Billing:
-
-  * This project helps to generate billing quickly and effectively.
-  * Reduces time.
-
+1.  This Application shall have basic details regarding the customers for booking a room.It takes some details.	
+2.	This Application can viewing the customer details who are booking the room and also change the details also.	
+3.	This Application can delete the record whenever the customer wants to leave.
  
