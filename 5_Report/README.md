@@ -44,6 +44,13 @@ HIGH LEVEL REQUIREMENTS:
 * This Application can viewing the customer details who are booking the room and also change the details also.
 * This Application can delete the record whenever the customer wants to leave.
 
+LOW LEVEL REQUIREMENTS:
+
+* If anyone give the wrong details in this application,it tells us u enter the wrong details.
+* This Application once delete the information,we cannot retrieve them.	
+* This Application having the records of who you want the information regarding the customer.
+
+
 
 
  
