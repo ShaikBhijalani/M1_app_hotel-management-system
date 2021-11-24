@@ -1,4 +1,4 @@
-If anyone give the wrong details in this application.it tells us u enter the wrong details.
+ If anyone give the wrong details in this application.it tells us u enter the wrong details.
 
  This Application once delete the infor--mation.we cannot retrieve them.	
  
