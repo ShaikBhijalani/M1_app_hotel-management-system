@@ -1,9 +1,9 @@
-#include&lt;stdio.h&gt;
-#include&lt;conio.h&gt;
-#include&lt;ctype.h&gt;
-#include&lt;windows.h&gt;
-#include&lt;stdlib.h&gt;
-#include&lt;time.h&gt;
+#include <stdio.h>
+#include <conio.h>
+#include <ctype.h>
+#include <windows.h>
+#include <stdlib.h>
+#include <time.h>
  
 void add();  //FUNCTIONS
 void list();
