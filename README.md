@@ -12,8 +12,10 @@
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/640892c9cdee4648bcfcc13984092421)](https://www.codacy.com/gh/ShaikBhijalani/M1_app_hotel-management-system/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ShaikBhijalani/M1_app_hotel-management-system&amp;utm_campaign=Badge_Grade)
 
-https://api.codiga.io/project/30009/score/svg ![image](https://user-images.githubusercontent.com/94346768/143302101-2abca2d5-d147-407b-b63f-c1120f7a0d4a.png)
+https://api.codiga.io/project/30009/score/svg ![image](https://user-images.githubusercontent.com/94346768/143302256-e005ac46-8f19-4e39-a2c8-b526519b3366.png)
 
 
-https://api.codiga.io/project/30009/status/svg
+
+https://api.codiga.io/project/30009/status/svg ![image](https://user-images.githubusercontent.com/94346768/143302314-9ff10c87-7423-4f24-b71c-db52381847f7.png)
+
 
