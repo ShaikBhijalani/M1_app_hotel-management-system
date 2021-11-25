@@ -1,5 +1,6 @@
 # M1_app_hotel-management-system
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d55bea2b69b743dc8bcaa039af295ed9)](https://app.codacy.com/gh/ShaikBhijalani/M1_app_hotel-management-system?utm_source=github.com&utm_medium=referral&utm_content=ShaikBhijalani/M1_app_hotel-management-system&utm_campaign=Badge_Grade_Settings)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/640892c9cdee4648bcfcc13984092421)](https://www.codacy.com/gh/ShaikBhijalani/M1_app_hotel-management-system/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ShaikBhijalani/M1_app_hotel-management-system&amp;utm_campaign=Badge_Grade)
 
 [![CI](https://github.com/ShaikBhijalani/M1_app_hotel-management-system/actions/workflows/main.yml/badge.svg)](https://github.com/ShaikBhijalani/M1_app_hotel-management-system/actions/workflows/main.yml)
