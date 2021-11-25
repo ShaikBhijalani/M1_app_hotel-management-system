@@ -8,7 +8,7 @@
 
 [![Contribution Check - Git Inspector](https://github.com/ShaikBhijalani/M1_app_hotel-management-system/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/ShaikBhijalani/M1_app_hotel-management-system/actions/workflows/gitinspector.yml)
 
-[![C/C++ CI UnitTesting](https://github.com/ShaikBhijalani/M1_app_hotel-management-system/actions/workflows/unit_testing.yml/badge.svg)](https://github.com/ShaikBhijalani/M1_app_hotel-management-system/actions/workflows/unit_testing.yml
+[![C/C++ CI UnitTesting](https://github.com/ShaikBhijalani/M1_app_hotel-management-system/actions/workflows/unit_testing.yml/badge.svg)]
 
 https://api.codiga.io/project/30009/score/svg ![image](https://user-images.githubusercontent.com/94346768/143302256-e005ac46-8f19-4e39-a2c8-b526519b3366.png)
 
