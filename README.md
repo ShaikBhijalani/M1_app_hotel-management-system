@@ -19,3 +19,13 @@ https://api.codiga.io/project/30009/score/svg ![image](https://user-images.githu
 https://api.codiga.io/project/30009/status/svg ![image](https://user-images.githubusercontent.com/94346768/143302314-9ff10c87-7423-4f24-b71c-db52381847f7.png)
 
 
+ Folder   |      Description     |  
+|----------|:-------------:|
+| 1_Requirements |  Documents detailing requirements and research |
+| 2_Design |    Documents specifying design  | 
+| 3_Implementation |   All codes and Documentation  |
+| 4_TestPlan |  Documents with test plans |
+| 5_Report |    Documentation of whole project  | 
+| 6_Images |    All the images of this project  |
+
+
