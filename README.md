@@ -16,4 +16,6 @@ https://api.codiga.io/project/30009/score/svg ![image](https://user-images.githu
 
 https://api.codiga.io/project/30009/status/svg ![image](https://user-images.githubusercontent.com/94346768/143302314-9ff10c87-7423-4f24-b71c-db52381847f7.png)
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/640892c9cdee4648bcfcc13984092421)](https://www.codacy.com/gh/ShaikBhijalani/M1_app_hotel-management-system/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ShaikBhijalani/M1_app_hotel-management-system&amp;utm_campaign=Badge_Grade)
+
 
